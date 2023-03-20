@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# Time       : 16/03/23 11:55
-# Author     : Hazza3100
-# Github     : https://github.com/Hazza3100
-# Description: 🚀 Email Generator
+
 
 import threading
 import requests
