@@ -11,8 +11,7 @@ I Made This because I Didint Want To Keep Going To AiChatting.net To Research Th
 AI Is Artificial Intelligence So It Acts Like A Human And Knows Most Things!
 
 
-![image](https://user-images.githubusercontent.com/113810078/226378259-a2e48dbf-023c-4393-8fc4-5b2f0ffbd79c.png)
-
+![image](https://user-images.githubusercontent.com/113810078/226378416-96f5d154-0839-4c0d-a0d1-840b59c3742b.png)
 
 # NOTE
 
